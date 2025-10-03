@@ -14,7 +14,11 @@ object luke{
     }
     method recuerdo() = recuerdo
     method vehiculo(nuevo) {vehiculo = nuevo}
+    method prueba(){}
+    method prueba2(){}
 }
+
+
 
 object alambiqueVeloz {
     var rapido = true
